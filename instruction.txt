@@ -1,0 +1,10 @@
+nodemon --exec npm start 
+//to start automatic nodemon
+
+main bash 1
+npm run serve
+npm start
+
+second bash
+cd client
+npm start
